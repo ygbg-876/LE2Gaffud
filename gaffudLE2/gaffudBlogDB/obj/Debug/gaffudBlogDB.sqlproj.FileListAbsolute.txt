@@ -1,0 +1,10 @@
+C:\Users\YGBG\source\repos\gaffudLE2\gaffudBlogDB\bin\Debug\gaffudBlogDB.dacpac
+C:\Users\YGBG\source\repos\gaffudLE2\gaffudBlogDB\bin\Debug\gaffudBlogDB.dll
+C:\Users\YGBG\source\repos\gaffudLE2\gaffudBlogDB\bin\Debug\gaffudBlogDB.pdb
+C:\Users\YGBG\source\repos\gaffudLE2\gaffudBlogDB\obj\Debug\gaffudBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\YGBG\source\repos\gaffudLE2\gaffudBlogDB\obj\Debug\Model.xml
+C:\Users\YGBG\source\repos\gaffudLE2\gaffudBlogDB\obj\Debug\refactor.xml
+C:\Users\YGBG\source\repos\gaffudLE2\gaffudBlogDB\obj\Debug\postdeploy.sql
+C:\Users\YGBG\source\repos\gaffudLE2\gaffudBlogDB\obj\Debug\predeploy.sql
+C:\Users\YGBG\source\repos\gaffudLE2\gaffudBlogDB\obj\Debug\gaffudBlogDB.dll
+C:\Users\YGBG\source\repos\gaffudLE2\gaffudBlogDB\obj\Debug\gaffudBlogDB.pdb
