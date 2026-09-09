@@ -1,8 +1,0 @@
-<Solution>
-  <Project Path="BlogDataLibrary/BlogDataLibrary.csproj" />
-  <Project Path="BlogTestUI/BlogTestUI.csproj" />
-  <Project Path="gaffudBlogDB/gaffudBlogDB.sqlproj">
-    <Build />
-    <Deploy />
-  </Project>
-</Solution>
